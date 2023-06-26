@@ -1,0 +1,15 @@
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\bin\Debug\net7.0\distribuidora.exe
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\bin\Debug\net7.0\distribuidora.deps.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\bin\Debug\net7.0\distribuidora.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\bin\Debug\net7.0\distribuidora.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\bin\Debug\net7.0\distribuidora.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\refint\distribuidora.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\distribuidora.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\distribuidora\obj\Debug\net7.0\ref\distribuidora.dll
