@@ -1,0 +1,15 @@
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\bin\Debug\net7.0\indexa.exe
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\bin\Debug\net7.0\indexa.deps.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\bin\Debug\net7.0\indexa.runtimeconfig.json
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\bin\Debug\net7.0\indexa.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\bin\Debug\net7.0\indexa.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\refint\indexa.dll
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.pdb
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\indexa.genruntimeconfig.cache
+G:\Otros ordenadores\Mi PC\Facultad\Taller1\tp82023\tl1_tp8_2023-rubenguzman48\indexador\indexa\obj\Debug\net7.0\ref\indexa.dll
