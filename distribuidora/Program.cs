@@ -99,6 +99,15 @@ class Program
                 }
             }
         }
+
+        if (tareasRealizadas.Count > 0) //si las tareas realizadas son mayores que 0
+        {
+            guardarSumario(tareasRealizadas); //invoco a la funcion guardar sumario y le paso la lista tareasRealizadas
+        }else
+        {
+            Console.WriteLine("\nNo hay tareas realizadas! No se puede guardar.");
+        }
+
     }
     //******************************************************
     //Creo una funcion para generar las tareas aleatoriamente
@@ -180,6 +189,18 @@ class Program
         Console.WriteLine($"Descripción: {listaTareas.Descripcion}");
         Console.WriteLine($"Duración: {listaTareas.Duracion}\n");
 
+    }
+
+    public static void guardarSumario (List<Tarea> realizadas) //resivo la lista de tipo tarea realizadas
+    {
+        int totalHoras = 0; //inicializo la variable totalHoras en 0
+        StreamWriter archivo = new StreamWriter("sumario.txt"); //defino un objeto de tipo Streamwrite para escribir en un archivo "sumario.txt"
+        foreach (var tarear in realizadas) //recorro la lista de realiados
+        {
+            totalHoras += tarear.Duracion; //sumo la cantidad de horas de las tareas realizadas
+        }
+        archivo.WriteLine($"Sumario: {totalHoras}"); //escribo las horas realizadas en el archivo
+        archivo.Close(); //cierro el archivo y libero la memoria reservada
     }
 
 
